@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&text=Giho%Kim)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Weedy404)
 </div>
 
 ### Welcome to Giho's study Github. 👋
